@@ -4,11 +4,11 @@
 
 🚀 Check out my [New Portfolio !](https://olivier-trudeau.netlify.app/)
 
-I'm Olivier Trudeau a passionate Junior Front-End Developer from Québec / Canada.
+I'm Olivier Trudeau a passionate Junior Front-End Developer from Canada / Québec.
 
 Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-oliviertrudeau777-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oliviertrudeau777@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Mail Badge](https://img.shields.io/badge/-oliviertrudeau777-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oliviertrudeau777@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Olivier-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-trudeau-05444a293/)
 
 
 
