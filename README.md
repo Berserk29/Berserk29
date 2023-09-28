@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-[![Mail Badge](https://img.shields.io/badge/my_email-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oliviertrudeau777@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-trudeau-05444a293/)
+[![Mail Badge](https://img.shields.io/badge/my_email-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oliviertrudeau777@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-trudeau/)
 
 </div>
 
@@ -23,7 +23,7 @@ I'm Olivier Trudeau a passionate Junior Front-End Developer from Canada / Québe
 - ⚡️ In my free time, I like to travel and play chess
 - 📨 How to reach me: 
     [![Mail Badge](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:oliviertrudeau777@gmail.com)
-    [![Linkedin Badge](https://img.shields.io/badge/-Olivier-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-trudeau-05444a293/)
+    [![Linkedin Badge](https://img.shields.io/badge/-Olivier-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-trudeau/)
   
  🚀 **Check out my** [**New Portfolio !**](https://olivier-trudeau.netlify.app/)
 
