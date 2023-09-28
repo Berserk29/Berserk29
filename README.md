@@ -6,10 +6,7 @@
 
 </div>
 
-<h1 align="center">
-    Hi, I'm Olivier
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>  
-</h1> 
+<h1 align="center">Hi, I'm Olivier 👋</h1> 
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width='700' />
@@ -40,8 +37,7 @@ I'm Olivier Trudeau a passionate Junior Front-End Developer from Canada / Québe
 
 ### 🔥 My Stats :
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Berserk29&theme=dark"/></a>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Berserk29&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berserk29&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
